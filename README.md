@@ -96,10 +96,18 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+  
+  ### GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
+  
+  <br/>
+  
+  ### Detailed Achievement Ranks
+  <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4" alt="detailed trophies" />
+  
 </div>
 
 ---
