@@ -17,12 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a keen interest in **cybersecurity**, **mobile development**, and creating **real-world applicable solutions**. I love turning complex problems into elegant, user-friendly applications.
+I'm a passionate **Cyber Security Engineer and software developer** with a keen interest in **cybersecurity**, **mobile development**, and creating **real-world applicable solutions**. I love turning complex problems into elegant, user-friendly applications.
 
 - 🔒 **Security Focus**: Developing advanced phishing detection systems and security tools
 - 📱 **Mobile Development**: Building Android applications with robust features and clean architecture
 - 🌐 **Web Development**: Creating stunning, responsive web applications with modern frameworks
-- 🎮 **Game Development**: Experimenting with 3D graphics and game mechanics
 - 🎯 **Current Focus**: Enhancing cybersecurity tools and mobile payment solutions
 
 ---
@@ -72,7 +71,6 @@ I'm a passionate **Full Stack Developer** with a keen interest in **cybersecurit
 | 🛡️ **Phishing Detector Extension** | Advanced browser extension with multi-layered detection for phishing and scam messages. Real-world security tool with professional UI. | JavaScript, Chrome APIs, ML |
 | 💊 **Medicine Reminder App** | Android application for medication management with smart SMS reminders and comprehensive patient tracking. | Java, Android, SQLite |
 | 💳 **DakaPay** | SMS-based payment gateway with button phone support, transaction processing, and offline capabilities. | Java, Android, SMS APIs |
-| 🎮 **Minecraft Clone** | 3D voxel game with greedy meshing, frustum culling, and realistic collision detection. | JavaScript, WebGL, 3D Graphics |
 | 🌐 **Portfolio Website** | Modern, responsive portfolio with stunning UI/UX and smooth animations. | React, TypeScript, CSS |
 
 </div>
