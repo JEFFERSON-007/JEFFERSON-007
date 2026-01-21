@@ -90,9 +90,7 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEFFERSON-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFERSON-007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+
 
 ---
 
