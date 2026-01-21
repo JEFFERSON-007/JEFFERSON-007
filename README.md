@@ -95,6 +95,14 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 ---
 
 
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 💡 What I'm Working On
 
 - 🔐 **Enhancing Cybersecurity Tools**: Developing advanced Machine Learning algorithms for threat detection.
