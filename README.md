@@ -96,24 +96,6 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-  ### GitHub Trophies
-  <!-- Using 'git-trophy' with tokyonight theme -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&column=7" alt="trophies" />
-  </a>
-  
-  <br/>
-  
-  ### Detailed Achievement Ranks
-  <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&column=4" alt="detailed trophies" />
-  
-</div>
-
----
 
 ## 💡 What I'm Working On
 
