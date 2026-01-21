@@ -96,10 +96,10 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 
 
 
-## ⚡ Recent Activity
+## 📰 Latest Security News
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--SECURITY_NEWS:START-->
+<!--SECURITY_NEWS:END-->
 
 ---
 

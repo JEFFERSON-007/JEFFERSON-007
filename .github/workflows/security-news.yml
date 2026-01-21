@@ -1,0 +1,18 @@
+name: Latest Security News
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "SECURITY_NEWS"
+          feed_list: "https://feeds.feedburner.com/TheHackersNews"
+          max_post_count: 5
