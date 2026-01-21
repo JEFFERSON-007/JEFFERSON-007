@@ -108,6 +108,14 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 
 ---
 
+## 📅 3D Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/JEFFERSON-007/JEFFERSON-007/raw/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
