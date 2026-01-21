@@ -103,13 +103,13 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
   ### GitHub Trophies
   <!-- Using 'git-trophy' with tokyonight theme -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&column=7" alt="trophies" />
   </a>
   
   <br/>
   
   ### Detailed Achievement Ranks
-  <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=4" alt="detailed trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&column=4" alt="detailed trophies" />
   
 </div>
 
