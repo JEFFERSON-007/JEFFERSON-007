@@ -114,10 +114,18 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 
 ---
 
-## 📅 3D Contribution Graph
+---
+
+## 📅 Contribution Analytics
 
 <div align="center">
+  
   <img src="https://github.com/JEFFERSON-007/JEFFERSON-007/raw/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFERSON-007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
 </div>
 
 ---
