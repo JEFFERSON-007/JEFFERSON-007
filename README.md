@@ -99,11 +99,11 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
-- [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
-- [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
-- [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
-- [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
+- [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
+- [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+- [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit &amp; 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
+- [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
+- [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
