@@ -99,11 +99,11 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
-- [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
-- [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
-- [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
-- [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
+- [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
+- [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
+- [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
+- [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
+- [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
