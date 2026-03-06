@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JEFFERSON-007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JEFFERSON-007&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/JEFFERSON-007?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -70,9 +70,9 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🛡️ **Phishing Detector Extension** | Advanced browser extension with multi-layered detection for phishing and scam messages. Real-world security tool with professional UI. | JavaScript, Chrome APIs, ML |
-| 💊 **Medicine Reminder App** | Android application for medication management with smart SMS reminders and comprehensive patient tracking. | Java, Android, SQLite |
-| 💳 **DakaPay** | SMS-based payment gateway with button phone support, transaction processing, and offline capabilities. | Java, Android, SMS APIs |
-| 🎮 **Minecraft Clone** | 3D voxel game with greedy meshing, frustum culling, and realistic collision detection. | JavaScript, WebGL, 3D Graphics |
+| 🤖 **AI Security Scanner** | Machine learning-powered security vulnerability scanner that analyzes code and identifies potential threats with high accuracy. | Python, TensorFlow, ONNX |
+| 💬 **Real-time Chat Application** | Full-stack chat platform with end-to-end encryption, real-time messaging, and user authentication. | React, Node.js, Socket.io, MongoDB |
+| 📋 **Task Management Tool** | Comprehensive project management solution with task tracking, team collaboration, and analytics dashboard. | React, TypeScript, Express, PostgreSQL |
 | 🌐 **Portfolio Website** | Modern, responsive portfolio with stunning UI/UX and smooth animations. | React, TypeScript, CSS |
 
 </div>
