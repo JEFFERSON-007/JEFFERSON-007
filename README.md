@@ -70,9 +70,9 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🛡️ **Phishing Detector Extension** | Advanced browser extension with multi-layered detection for phishing and scam messages. Real-world security tool with professional UI. | JavaScript, Chrome APIs, ML |
-| 🤖 **AI Security Scanner** | Machine learning-powered security vulnerability scanner that analyzes code and identifies potential threats with high accuracy. | Python, TensorFlow, ONNX |
-| 💬 **Real-time Chat Application** | Full-stack chat platform with end-to-end encryption, real-time messaging, and user authentication. | React, Node.js, Socket.io, MongoDB |
-| 📋 **Task Management Tool** | Comprehensive project management solution with task tracking, team collaboration, and analytics dashboard. | React, TypeScript, Express, PostgreSQL |
+| 📄 **AI Resume Builder** | Intelligent resume builder powered by AI that generates professional resumes with smart formatting and optimization for ATS systems. | React, Node.js, AI/ML, OpenAI API |
+| ♟️ **Elite 64 Chess AI** | Advanced chess engine with sophisticated AI opponent using minimax algorithm and alpha-beta pruning for strategic gameplay. | JavaScript, Python, Chess Logic, Game Theory |
+| 📊 **Datalyze** | Comprehensive data analytics platform with real-time visualization, reporting, and business intelligence dashboards. | React, TypeScript, D3.js, Node.js, PostgreSQL |
 | 🌐 **Portfolio Website** | Modern, responsive portfolio with stunning UI/UX and smooth animations. | React, TypeScript, CSS |
 
 </div>
