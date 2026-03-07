@@ -99,11 +99,11 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
-- [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
-- [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine &amp; More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
-- [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
-- [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
+- [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+- [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+- [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+- [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+- [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
