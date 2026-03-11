@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JEFFERSON-007&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/JEFFERSON-007?label=Followers&style=social" alt="followers" />
-  <img src="https://visitcount.itsvg.in/api?id=JEFFERSON-007&icon=5&color=12" alt="visitor counter" />
 </p>
 
 <div align="center">
@@ -31,8 +30,6 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 - Tech Stack
 - Featured Projects
 - GitHub Stats
-- Coding Platforms
-- Learning Roadmap
 - Security Research
 - Contribution Graph
 - Achievements
@@ -141,8 +138,6 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 
 ---
 
----
-
 ## 📅 Contribution Analytics
 
 <div align="center">
@@ -155,19 +150,13 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 
 </div>
 
-## 📈 Daily Contribution
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFERSON-007&theme=tokyo-night&hide_border=true&area=true" alt="Daily contribution graph" />
-</div>
-
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&no-frame=true&row=1&column=6" alt="github trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
 
 </div>
 
@@ -178,7 +167,7 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 <div align="center">
   <a href="https://github.com/lowlighter/metrics">https://github.com/lowlighter/metrics</a>
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/JEFFERSON-007/JEFFERSON-007/main/github-metrics.svg" alt="GitHub metrics" />
+  <img src="https://metrics.lecoq.io/JEFFERSON-007?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Africa%2FNairobi" alt="GitHub metrics" />
 </div>
 
 ---
@@ -188,24 +177,6 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 - Write clean and maintainable code
 - Focus on security-first design
 - Build solutions that solve real problems
-
----
-
-## 💻 Coding Platforms
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</div>
-
----
-
-## 🗺️ Learning Roadmap
-
-- Advanced cloud-native security tooling
-- Scalable mobile architecture and performance tuning
-- AI-assisted secure development workflows
 
 ---
 
