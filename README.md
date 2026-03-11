@@ -1,11 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jefferson;Cybersecurity+Engineer;Software+Developer;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Jefferson;Security+Enthusiast+%7C+Software+Developer;Mobile+App+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JEFFERSON-007&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/JEFFERSON-007?label=Followers&style=social" alt="followers" />
+  <img src="https://visitcount.itsvg.in/api?id=JEFFERSON-007&icon=5&color=12" alt="visitor counter" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" alt="divider" />
+</div>
 
 <div align="center">
   
@@ -17,7 +22,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen interest in **security research**, **mobile development**, and creating **real-world applicable solutions**. I love turning complex security problems into elegant, user-friendly applications.
+I'm a passionate **Security Enthusiast | Software Developer** with a keen interest in **security research**, **mobile development**, and creating **real-world applicable solutions**. I love turning complex security problems into elegant, user-friendly applications.
+
+## 🧭 Profile Sections
+
+- Hero Section
+- About Me
+- Tech Stack
+- Featured Projects
+- GitHub Stats
+- Coding Platforms
+- Learning Roadmap
+- Security Research
+- Contribution Graph
+- Achievements
+- Connect With Me
+
+---
 
 - 🔒 **Security Focus**: Developing advanced phishing detection systems and security tools
 - 📱 **Mobile Development**: Building Android applications with robust features and clean architecture
@@ -133,6 +154,66 @@ I'm a passionate **Cybersecurity Engineer and Software Developer** with a keen i
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFERSON-007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
+
+## 📈 Daily Contribution
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFERSON-007&theme=tokyo-night&hide_border=true&area=true" alt="Daily contribution graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JEFFERSON-007&theme=tokyonight&no-frame=true&row=1&column=6" alt="github trophies"/>
+
+</div>
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <a href="https://github.com/lowlighter/metrics">https://github.com/lowlighter/metrics</a>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/JEFFERSON-007/JEFFERSON-007/main/github-metrics.svg" alt="GitHub metrics" />
+</div>
+
+---
+
+## 💭 Development Philosophy
+
+- Write clean and maintainable code
+- Focus on security-first design
+- Build solutions that solve real problems
+
+---
+
+## 💻 Coding Platforms
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</div>
+
+---
+
+## 🗺️ Learning Roadmap
+
+- Advanced cloud-native security tooling
+- Scalable mobile architecture and performance tuning
+- AI-assisted secure development workflows
+
+---
+
+## 🔬 Security Research
+
+- Phishing detection and browser-based threat prevention
+- Mobile transaction security for low-connectivity environments
+- Practical secure coding patterns for modern web apps
 
 ---
 
