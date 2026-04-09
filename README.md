@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
-- [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
-- [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
-- [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
-- [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
+- [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
+- [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
+- [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
+- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms &lpar;IVIP&rpar;](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
+- [Anthropic&#39;s Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
