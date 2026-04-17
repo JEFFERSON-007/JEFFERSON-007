@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
-- [Actively Exploited nginx-ui Flaw &lpar;CVE-2026-33032&rpar; Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
-- [April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More](https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html)
-- [Deterministic + Agentic AI: The Architecture Exposure Validation Requires](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
-- [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
+- [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
+- [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
+- [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+- [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
+- [Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu](https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
