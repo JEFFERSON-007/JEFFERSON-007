@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [SGLang CVE-2026-5760 &lpar;CVSS 9.8&rpar; Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
-- [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
-- [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
-- [Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
-- [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
+- [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
+- [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
+- [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
+- [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
+- [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
