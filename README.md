@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
+- [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
+- [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
 - [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
 - [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 - [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
-- [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
-- [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
