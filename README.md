@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
-- [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
-- [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
-- [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
-- [New Linux &#39;Copy Fail&#39; Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
+- [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
+- [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
+- [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
+- [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
+- [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
