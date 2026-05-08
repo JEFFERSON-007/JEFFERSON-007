@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
-- [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
-- [The Hacker News Launches &#39;Cybersecurity Stars Awards 2026&#39; — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
-- [Your AI Agents Are Already Inside the Perimeter. Do You Know What They&#39;re Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
-- [Google&#39;s Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
+- [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
+- [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
+- [One Click, Total Shutdown: The &quot;Patient Zero&quot; Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+- [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
+- [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
