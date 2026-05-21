@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
-- [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
-- [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
-- [Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
-- [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
+- [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html)
+- [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
+- [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
+- [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
+- [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
