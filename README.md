@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
-- [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
-- [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
-- [ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More](https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html)
-- [New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI &quot;Power users&quot;](https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html)
+- [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
+- [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
+- [New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
+- [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
+- [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
