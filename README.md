@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html)
-- [Veeam Backup &amp; Replication RCE Flaw Lets Domain Users Run Remote Code](https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html)
-- [Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues](https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html)
-- [WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine](https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html)
-- [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html)
+- [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
+- [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
+- [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
+- [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
+- [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
