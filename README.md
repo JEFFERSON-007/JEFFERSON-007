@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
-- [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
-- [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
-- [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
-- [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
+- [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+- [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
+- [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
+- [VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
+- [Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures](https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
