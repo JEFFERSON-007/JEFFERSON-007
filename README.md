@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
-- [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
-- [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
-- [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
-- [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
+- [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
+- [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
+- [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
+- [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+- [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
