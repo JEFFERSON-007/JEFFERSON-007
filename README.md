@@ -117,11 +117,11 @@ I'm a passionate **Security Enthusiast | Software Developer** with a keen intere
 ## 📰 Latest Security News
 
 <!-- SECURITY_NEWS:START -->
-- [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
-- [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
-- [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
-- [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
-- [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+- [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
+- [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
+- [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
+- [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
+- [Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access](https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html)
 <!-- SECURITY_NEWS:END -->
 
 ---
