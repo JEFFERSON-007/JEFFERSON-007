@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 520" role="img" aria-labelledby="title description">
+  <title id="title">Jefferson Raja A - Cybersecurity and Software Development</title>
+  <desc id="description">A dark cyber-inspired portfolio banner for Jefferson Raja A.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.54" stop-color="#0b1834"/>
+      <stop offset="1" stop-color="#071c27"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12264a" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#07101f" stop-opacity="0.48"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7dd3fc" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="520" fill="url(#background)"/>
+  <rect width="1440" height="520" fill="url(#grid)"/>
+  <circle cx="1190" cy="46" r="190" fill="#0891b2" fill-opacity="0.16" filter="url(#softGlow)"/>
+  <circle cx="161" cy="480" r="165" fill="#6366f1" fill-opacity="0.12" filter="url(#softGlow)"/>
+  <path d="M0 405 C245 345 350 505 617 437 S1000 305 1440 395" fill="none" stroke="url(#accent)" stroke-opacity="0.24" stroke-width="2"/>
+  <path d="M0 415 C255 355 370 515 625 447 S1030 315 1440 405" fill="none" stroke="#22d3ee" stroke-opacity="0.09" stroke-width="22" filter="url(#softGlow)"/>
+
+  <g transform="translate(84 70)">
+    <rect width="210" height="32" rx="16" fill="#0e2a42" stroke="#22d3ee" stroke-opacity="0.42"/>
+    <circle cx="19" cy="16" r="4" fill="#67e8f9" filter="url(#glow)"/>
+    <text x="34" y="21" fill="#bae6fd" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.4">BUILDING IN PUBLIC</text>
+  </g>
+
+  <g transform="translate(84 143)">
+    <text x="0" y="0" fill="#e2f6ff" font-family="Segoe UI, Arial, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">JEFFERSON</text>
+    <text x="0" y="65" fill="#e2f6ff" font-family="Segoe UI, Arial, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">RAJA A<tspan fill="#22d3ee">.</tspan></text>
+    <rect x="0" y="94" width="319" height="3" rx="2" fill="url(#accent)"/>
+    <text x="0" y="133" fill="#9cc7dc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" letter-spacing="0.8">SECURITY-MINDED SOFTWARE DEVELOPER</text>
+    <text x="0" y="163" fill="#7da6bd" font-family="Segoe UI, Arial, sans-serif" font-size="16">Designing practical tools for a safer digital world.</text>
+  </g>
+
+  <g transform="translate(84 372)">
+    <rect width="146" height="46" rx="8" fill="#091a31" stroke="#60a5fa" stroke-opacity="0.34"/>
+    <text x="16" y="19" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.2">FOCUS / 01</text>
+    <text x="16" y="35" fill="#d6f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Security tools</text>
+    <rect x="158" width="146" height="46" rx="8" fill="#091a31" stroke="#60a5fa" stroke-opacity="0.34"/>
+    <text x="174" y="19" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.2">FOCUS / 02</text>
+    <text x="174" y="35" fill="#d6f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Web systems</text>
+    <rect x="316" width="146" height="46" rx="8" fill="#091a31" stroke="#60a5fa" stroke-opacity="0.34"/>
+    <text x="332" y="19" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.2">FOCUS / 03</text>
+    <text x="332" y="35" fill="#d6f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Mobile apps</text>
+  </g>
+
+  <g transform="translate(966 97)">
+    <rect width="370" height="300" rx="20" fill="url(#panel)" stroke="#7dd3fc" stroke-opacity="0.24"/>
+    <path d="M1 54 H369" stroke="#7dd3fc" stroke-opacity="0.18"/>
+    <circle cx="28" cy="27" r="5" fill="#fb7185"/>
+    <circle cx="47" cy="27" r="5" fill="#fbbf24"/>
+    <circle cx="66" cy="27" r="5" fill="#34d399"/>
+    <text x="102" y="32" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1.1">PROFILE.STATUS</text>
+    <text x="28" y="96" fill="#d9f6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Currently exploring</text>
+    <rect x="28" y="116" width="314" height="1" fill="#7dd3fc" fill-opacity="0.18"/>
+    <text x="28" y="153" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">01</text>
+    <text x="59" y="153" fill="#c7e7f6" font-family="Segoe UI, Arial, sans-serif" font-size="15">Phishing detection</text>
+    <text x="28" y="192" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">02</text>
+    <text x="59" y="192" fill="#c7e7f6" font-family="Segoe UI, Arial, sans-serif" font-size="15">Secure web applications</text>
+    <text x="28" y="231" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">03</text>
+    <text x="59" y="231" fill="#c7e7f6" font-family="Segoe UI, Arial, sans-serif" font-size="15">Automation and ML</text>
+    <rect x="28" y="254" width="145" height="24" rx="12" fill="#0e3a52"/>
+    <text x="42" y="271" fill="#a5f3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">ALWAYS LEARNING</text>
+  </g>
+
+  <text x="1365" y="472" text-anchor="end" fill="#75afc5" fill-opacity="0.65" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1.5">JR / 2026</text>
+</svg>
