@@ -91,17 +91,34 @@ An applied cryptography project focused on secure data handling.
 
 <p align="center"><a href="https://github.com/JEFFERSON-007?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-172554?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
 
+## Project map
+
+Use this map to find the part of my work that interests you most.
+
+| If you want to explore | Start here |
+| --- | --- |
+| Browser and web security | [Phishing Extension](https://github.com/JEFFERSON-007/phishing-extension) · [Vulnerability Scanner](https://github.com/JEFFERSON-007/WEB-APPLICATION-VULNERABILITY-SCANNER) · [Port Scanner](https://github.com/JEFFERSON-007/Port-Scanner) · [Wi-Fi Password Security Auditor](https://github.com/JEFFERSON-007/Wi-Fi-Password-Security-Auditor) |
+| Secure Python tooling | [File Integrity Checker](https://github.com/JEFFERSON-007/FILE-INTEGRITY-CHECKER) · [Encryption Tool](https://github.com/JEFFERSON-007/ADVANCED-ENCRYPTION-TOOL) · [Password Strength Checker](https://github.com/JEFFERSON-007/Password-Strength-Checker) · [Arkshield](https://github.com/JEFFERSON-007/Arkshield) |
+| AI, data, and ML | [AI Resume Builder](https://github.com/JEFFERSON-007/AI-Resume-Builder) · [DataLyze](https://github.com/JEFFERSON-007/DataLyze) · [Ham/Spam Classification](https://github.com/JEFFERSON-007/Machine-learning-model-for-ham-scam-classification) |
+| Frontend and 3D experiments | [Portfolio](https://github.com/JEFFERSON-007/PORTFOLIO) · [Atlas-One](https://github.com/JEFFERSON-007/Atlas-One) · [Crawlix](https://github.com/JEFFERSON-007/Crawlix) |
+| Developer tools and systems | [Terminal-Brain](https://github.com/JEFFERSON-007/Terminal-Brain) · [APPT](https://github.com/JEFFERSON-007/APPT) · [Elite64 Chess AI](https://github.com/JEFFERSON-007/Elite64-Chess-AI) |
+
 ## Technical toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,express,android,kotlin,postgres,git,github,vscode&perline=7" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,vite,tailwind&perline=9" alt="Languages and frontend stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,docker,bash,powershell,postgres,git,github&perline=9" alt="Backend, infrastructure, and tooling stack" />
 </p>
 
-<div align="center">
-
-`Python` `JavaScript` `TypeScript` `Java` `React` `Node.js` `Android` `Kotlin` `PostgreSQL` `Git`
-
-</div>
+| Area | Tools represented across my repositories |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript, HTML, CSS, Shell, PowerShell, Batch |
+| Frontend | React, Next.js, Vite, Tailwind CSS, Three.js, React Three Fiber, GSAP, Cesium |
+| Backend | Node.js, FastAPI, Flask, Uvicorn, REST APIs, WebExtension APIs |
+| Data and ML | Pandas, NumPy, SciPy, scikit-learn, DuckDB, OpenPyXL, Chart.js |
+| Security and systems | Chrome APIs, Paramiko, Pydantic, PyYAML, APScheduler, encryption, file integrity, port scanning |
+| Delivery and quality | Docker, Docker Compose, PyInstaller, Vitest, ESLint, Prettier, Git, GitHub |
 
 ## GitHub in numbers
 
