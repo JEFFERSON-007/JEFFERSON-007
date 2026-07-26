@@ -1,99 +1,158 @@
 <div align="center">
 
-# Jefferson Raja A
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:0e7490&height=190&section=header&text=JEFFERSON%20RAJA%20A&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Builder&descAlignY=62&descSize=17" width="100%" alt="Jefferson Raja A" />
 
-### Cybersecurity developer | Software engineer | Builder
+<a href="https://github.com/JEFFERSON-007"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+practical+security+tools;Turning+security+ideas+into+useful+software;Learning%2C+building%2C+and+sharing" alt="Typing introduction" /></a>
 
-I build practical security tools and user-focused applications across web, mobile, and Python. My current interests are phishing detection, secure software, automation, and applied machine learning.
-
-[Portfolio](https://jefferson-007.github.io/PORTFOLIO/) · [picoCTF](https://play.picoctf.org/users/JEFF_2K07) · [TryHackMe](https://tryhackme.com/p/jeff2k07) · [LinkedIn](https://www.linkedin.com/in/jefferson-007)
+<p>
+  <a href="https://jefferson-007.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=22d3ee" alt="Portfolio" /></a>
+  <a href="https://play.picoctf.org/users/JEFF_2K07"><img src="https://img.shields.io/badge/picoCTF-0f172a?style=for-the-badge&logo=target&logoColor=22d3ee" alt="picoCTF" /></a>
+  <a href="https://tryhackme.com/p/jeff2k07"><img src="https://img.shields.io/badge/TryHackMe-0f172a?style=for-the-badge&logo=tryhackme&logoColor=22d3ee" alt="TryHackMe" /></a>
+  <a href="https://www.linkedin.com/in/jefferson-007"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
+</p>
 
 </div>
 
+<br />
+
 ## About me
 
-- I turn security concepts into tools that are understandable and useful.
-- I am studying at Karunya Institute of Technology and Science in Coimbatore.
-- I enjoy security research, web development, Android development, and automation.
-- I am currently learning React Native, Kotlin, and cloud architecture.
+I am a cybersecurity-focused software developer who likes building things that are both technically interesting and easy to use. My work sits at the intersection of security research, web development, Android, Python automation, and applied machine learning.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I care about
+
+- Practical security tooling
+- Clean, maintainable software
+- Secure-by-design development
+- Learning by building real projects
+
+</td>
+<td width="50%" valign="top">
+
+### Current direction
+
+- Phishing detection and browser security
+- Secure web applications
+- React Native and Kotlin
+- Cloud architecture and technical writing
+
+</td>
+</tr>
+</table>
 
 ## Featured work
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [Phishing Detector Extension](https://github.com/JEFFERSON-007/phishing-extension) | Browser-based phishing-message detection | JavaScript, Chrome APIs |
-| [File Integrity Checker](https://github.com/JEFFERSON-007/FILE-INTEGRITY-CHECKER) | File monitoring and integrity verification | Python |
-| [Web Application Vulnerability Scanner](https://github.com/JEFFERSON-007/WEB-APPLICATION-VULNERABILITY-SCANNER) | Practical web security testing | JavaScript |
-| [Advanced Encryption Tool](https://github.com/JEFFERSON-007/ADVANCED-ENCRYPTION-TOOL) | Encryption and secure data handling | Python |
-| [APPT](https://github.com/JEFFERSON-007/APPT) | Python application development | Python |
-| [CODSOFT](https://github.com/JEFFERSON-007/CODSOFT) | Internship projects and problem-solving | Python |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Skills
+### [Phishing Detector Extension](https://github.com/JEFFERSON-007/phishing-extension)
 
-**Languages**
+Browser-based phishing-message detection using JavaScript and Chrome APIs.
 
-Python · JavaScript · TypeScript · Java · HTML · CSS
+`JavaScript` `Chrome APIs` `Security`
 
-**Web and data**
+</td>
+<td width="50%" valign="top">
 
-React · Node.js · Express · D3.js · PostgreSQL · REST APIs
+### [Web Application Vulnerability Scanner](https://github.com/JEFFERSON-007/WEB-APPLICATION-VULNERABILITY-SCANNER)
 
-**Mobile and tools**
+A practical project for exploring web security testing concepts.
 
-Android · Kotlin · Android Studio · Gradle · Git · GitHub · VS Code
+`JavaScript` `Web Security` `Testing`
 
-**Security and ML**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Secure coding · vulnerability testing · phishing detection · machine learning · ONNX
+### [File Integrity Checker](https://github.com/JEFFERSON-007/FILE-INTEGRITY-CHECKER)
 
-## What I am working on
+Python-based monitoring and integrity verification for files.
 
-- Improving phishing detection with practical machine-learning techniques
-- Building secure, responsive web applications
-- Creating clearer documentation, demos, and setup guides for my projects
-- Developing a stronger public security portfolio through labs and write-ups
+`Python` `Hashing` `Automation`
 
-## Contribution activity
+</td>
+<td width="50%" valign="top">
 
-These cards show my public GitHub commit history, language distribution, and recent contribution pattern.
+### [Advanced Encryption Tool](https://github.com/JEFFERSON-007/ADVANCED-ENCRYPTION-TOOL)
+
+An applied cryptography project focused on secure data handling.
+
+`Python` `Cryptography` `Security`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/JEFFERSON-007?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-172554?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
+
+## Technical toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,express,android,kotlin,postgres,git,github,vscode&perline=7" alt="Technology stack" />
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JEFFERSON-007&include_all_commits=true&show_icons=true&hide_border=true&rank=false&theme=tokyonight" alt="Jefferson's GitHub statistics, including total commits" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFERSON-007&layout=compact&hide_border=true&theme=tokyonight" alt="Jefferson's most used programming languages" height="170" />
+`Python` `JavaScript` `TypeScript` `Java` `React` `Node.js` `Android` `Kotlin` `PostgreSQL` `Git`
+
+</div>
+
+## GitHub in numbers
+
+<p align="center">A visual snapshot of my public coding activity, total commits, language mix, and contribution streak.</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JEFFERSON-007&include_all_commits=true&show_icons=true&hide_border=true&rank=false&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee" alt="GitHub statistics and total commits" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFERSON-007&layout=compact&hide_border=true&theme=tokyonight&title_color=22d3ee" alt="Most used programming languages" height="170" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JEFFERSON-007&hide_border=true&theme=tokyonight" alt="Jefferson's contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JEFFERSON-007&hide_border=true&theme=tokyonight&ring=22d3ee&fire=fb7185&currStreakLabel=22d3ee" alt="Contribution streak" />
 
-<br />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFERSON-007&custom_title=Jefferson%27s%20commit%20activity&theme=tokyo-night&hide_border=true&area=true" alt="Graph of Jefferson's GitHub commit activity" width="95%" />
+## Commit activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFERSON-007&custom_title=Commit%20activity%20over%20time&theme=tokyo-night&hide_border=true&area=true&color=22d3ee&line=22d3ee&point=ffffff" alt="Graph showing commit activity over time" width="96%" />
 
 </div>
 
 ## Contribution calendar
 
-The calendar below visualizes my daily GitHub contributions. GitHub also shows the complete native contribution calendar on my [profile](https://github.com/JEFFERSON-007).
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JEFFERSON-007/JEFFERSON-007/output/github-contribution-grid-snake.svg" alt="Animated contribution calendar snake" width="95%" />
+<img src="https://raw.githubusercontent.com/JEFFERSON-007/JEFFERSON-007/output/github-contribution-grid-snake.svg" alt="Animated contribution calendar" width="96%" />
+
+<sub>See the complete contribution calendar on my <a href="https://github.com/JEFFERSON-007">GitHub profile</a>.</sub>
 
 </div>
 
-## Goals
+## 2026 goals
 
-- Publish more security tools with tests and reproducible examples
-- Add measurable results, screenshots, and demos to each major repository
-- Contribute to open-source security and developer-tool projects
+| Goal | What it means |
+| --- | --- |
+| Better security tools | Add tests, examples, and measurable results |
+| Stronger documentation | Include screenshots, setup guides, and technical write-ups |
+| Open-source contribution | Collaborate on security and developer-tool projects |
+| Consistent learning | Keep building with React Native, Kotlin, and cloud technologies |
 
-## Contact
+## Let's connect
 
 Interested in cybersecurity, secure software, or collaborative projects? Visit my [portfolio](https://jefferson-007.github.io/PORTFOLIO/) or connect with me on [LinkedIn](https://www.linkedin.com/in/jefferson-007).
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JEFFERSON-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=JEFFERSON-007&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:172554,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
