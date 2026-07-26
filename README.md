@@ -35,10 +35,13 @@ I am a cybersecurity-focused software developer who likes building things that a
 
 ### Current direction
 
-- Phishing detection and browser security
-- Secure web applications
-- React Native and Kotlin
-- Cloud architecture and technical writing
+<!-- CURRENT_DIRECTION:START -->
+- Security engineering: 8 public repositories focused on defensive tooling, scanning, encryption, or integrity.
+- Full-stack web development: 8 repositories using JavaScript, TypeScript, and browser or frontend technologies.
+- Python, data, and machine learning: 13 repositories covering automation, APIs, analytics, or classification.
+- Systems and developer tooling: 2 repositories exploring terminals, automation, Docker, or technical utilities.
+<sub>Automatically derived from public repository activity. Last refreshed: 2026-07-26.</sub>
+<!-- CURRENT_DIRECTION:END -->
 
 </td>
 </tr>
@@ -46,48 +49,18 @@ I am a cybersecurity-focused software developer who likes building things that a
 
 ## Featured work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- FEATURED_WORK:START -->
+| Project | What it shows | Primary stack |
+| --- | --- | --- |
+| [Atlas-One](https://github.com/JEFFERSON-007/Atlas-One) | Interactive TypeScript visualization and 3D frontend project. | TypeScript |
+| [File-Intregrity-Checker](https://github.com/JEFFERSON-007/File-Intregrity-Checker) | 🛡️ A production-ready, real-time File Integrity Monitoring system built in Python 3.12+. | Python |
+| [Wi-Fi-Password-Security-Auditor](https://github.com/JEFFERSON-007/Wi-Fi-Password-Security-Auditor) | Python security utility for auditing Wi-Fi password strength. | Python |
+| [Port-Scanner](https://github.com/JEFFERSON-007/Port-Scanner) | Network utility for exploring open-port scanning concepts. | Python |
+| [Password-Strength-Checker](https://github.com/JEFFERSON-007/Password-Strength-Checker) | Browser-friendly password strength evaluation tool. | JavaScript |
+| [Ham/Spam Classification](https://github.com/JEFFERSON-007/Machine-learning-model-for-ham-scam-classification) | Machine-learning web application for classifying messages. | Python, HTML |
 
-### [Phishing Detector Extension](https://github.com/JEFFERSON-007/phishing-extension)
-
-Browser-based phishing-message detection using JavaScript and Chrome APIs.
-
-`JavaScript` `Chrome APIs` `Security`
-
-</td>
-<td width="50%" valign="top">
-
-### [Web Application Vulnerability Scanner](https://github.com/JEFFERSON-007/WEB-APPLICATION-VULNERABILITY-SCANNER)
-
-A practical project for exploring web security testing concepts.
-
-`JavaScript` `Web Security` `Testing`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [File Integrity Checker](https://github.com/JEFFERSON-007/FILE-INTEGRITY-CHECKER)
-
-Python-based monitoring and integrity verification for files.
-
-`Python` `Hashing` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### [Advanced Encryption Tool](https://github.com/JEFFERSON-007/ADVANCED-ENCRYPTION-TOOL)
-
-An applied cryptography project focused on secure data handling.
-
-`Python` `Cryptography` `Security`
-
-</td>
-</tr>
-</table>
+<sub>Automatically selected from recent public activity. Last refreshed: 2026-07-26.</sub>
+<!-- FEATURED_WORK:END -->
 
 <p align="center"><a href="https://github.com/JEFFERSON-007?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-172554?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
 
