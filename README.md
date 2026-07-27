@@ -40,7 +40,7 @@ I am a cybersecurity-focused software developer who likes building things that a
 - Full-stack web development: 8 repositories using JavaScript, TypeScript, and browser or frontend technologies.
 - Python, data, and machine learning: 13 repositories covering automation, APIs, analytics, or classification.
 - Systems and developer tooling: 2 repositories exploring terminals, automation, Docker, or technical utilities.
-<sub>Automatically derived from public repository activity. Last refreshed: 2026-07-26.</sub>
+<sub>Automatically derived from public repository activity. Last refreshed: 2026-07-27.</sub>
 <!-- CURRENT_DIRECTION:END -->
 
 </td>
@@ -52,14 +52,14 @@ I am a cybersecurity-focused software developer who likes building things that a
 <!-- FEATURED_WORK:START -->
 | Project | What it shows | Primary stack |
 | --- | --- | --- |
-| [Atlas-One](https://github.com/JEFFERSON-007/Atlas-One) | Interactive TypeScript visualization and 3D frontend project. | TypeScript |
+| [Atlas-One](https://github.com/JEFFERSON-007/Atlas-One) | A fully interactive photorealistic 3D Earth running entirely in the browser. | TypeScript |
 | [File-Intregrity-Checker](https://github.com/JEFFERSON-007/File-Intregrity-Checker) | 🛡️ A production-ready, real-time File Integrity Monitoring system built in Python 3.12+. | Python |
-| [Wi-Fi-Password-Security-Auditor](https://github.com/JEFFERSON-007/Wi-Fi-Password-Security-Auditor) | Python security utility for auditing Wi-Fi password strength. | Python |
-| [Port-Scanner](https://github.com/JEFFERSON-007/Port-Scanner) | Network utility for exploring open-port scanning concepts. | Python |
-| [Password-Strength-Checker](https://github.com/JEFFERSON-007/Password-Strength-Checker) | Browser-friendly password strength evaluation tool. | JavaScript |
-| [Ham/Spam Classification](https://github.com/JEFFERSON-007/Machine-learning-model-for-ham-scam-classification) | Machine-learning web application for classifying messages. | Python, HTML |
+| [Wi-Fi-Password-Security-Auditor](https://github.com/JEFFERSON-007/Wi-Fi-Password-Security-Auditor) | A professional, commercial-grade desktop security suite built in Python for auditing, evaluating, and generating resilient... | Python |
+| [Port-Scanner](https://github.com/JEFFERSON-007/Port-Scanner) | A modular, production-quality Python simulation platform designed to demonstrate advanced network programming, concurrent... | Python |
+| [Password-Strength-Checker](https://github.com/JEFFERSON-007/Password-Strength-Checker) | An interactive, premium, client-side cybersecurity dashboard for password strength analysis, entropy measurement, and secu... | JavaScript |
+| [Machine-learning-model-for-ham-scam-classification](https://github.com/JEFFERSON-007/Machine-learning-model-for-ham-scam-classification) | Hybrid Ensemble ML System for SMS & URL Spam Detection | HTML |
 
-<sub>Automatically selected from recent public activity. Last refreshed: 2026-07-26.</sub>
+<sub>Automatically selected from recent public activity. Last refreshed: 2026-07-27.</sub>
 <!-- FEATURED_WORK:END -->
 
 <p align="center"><a href="https://github.com/JEFFERSON-007?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-172554?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
