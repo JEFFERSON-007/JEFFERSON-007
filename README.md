@@ -37,10 +37,10 @@ I am a cybersecurity-focused software developer who likes building things that a
 
 <!-- CURRENT_DIRECTION:START -->
 - Security engineering: 8 public repositories focused on defensive tooling, scanning, encryption, or integrity.
-- Full-stack web development: 8 repositories using JavaScript, TypeScript, and browser or frontend technologies.
+- Full-stack web development: 9 repositories using JavaScript, TypeScript, and browser or frontend technologies.
 - Python, data, and machine learning: 15 repositories covering automation, APIs, analytics, or classification.
 - Systems and developer tooling: 2 repositories exploring terminals, automation, Docker, or technical utilities.
-<sub>Automatically derived from public repository activity. Last refreshed: 2026-09-07.</sub>
+<sub>Automatically derived from public repository activity. Last refreshed: 2026-09-14.</sub>
 <!-- CURRENT_DIRECTION:END -->
 
 </td>
@@ -52,14 +52,14 @@ I am a cybersecurity-focused software developer who likes building things that a
 <!-- FEATURED_WORK:START -->
 | Project | What it shows | Primary stack |
 | --- | --- | --- |
+| [Arkshield](https://github.com/JEFFERSON-007/Arkshield) | ArkShield is a professional-grade, autonomous cyber defense ecosystem designed for real-time endpoint monitoring, telemetr... | Python |
+| [E-commerce-website](https://github.com/JEFFERSON-007/E-commerce-website) | A CSS project from my active public portfolio. | CSS |
 | [Atlas-One](https://github.com/JEFFERSON-007/Atlas-One) | A fully interactive photorealistic 3D Earth running entirely in the browser. | TypeScript |
 | [IIPX-Intelligent-Internet-Phishing-Extension](https://github.com/JEFFERSON-007/IIPX-Intelligent-Internet-Phishing-Extension) | The extension's work was to find the phishing messages in a website | JavaScript |
 | [PyMedia-Video-Audio-Stream-Downloader-From-URL](https://github.com/JEFFERSON-007/PyMedia-Video-Audio-Stream-Downloader-From-URL) | A sleek, minimalistic, and modern video downloader powered by yt-dlp and CustomTkinter. | Python |
 | [PRISM-IDS](https://github.com/JEFFERSON-007/PRISM-IDS) | An Enterprise-Grade, Real-Time Intrusion Detection System & Security Operations Center (SOC) Platform powered by Hybrid Si... | Python |
-| [PORTFOLIO](https://github.com/JEFFERSON-007/PORTFOLIO) | Welcome to the official repository for Jefferson Raja's professional portfolio. This is a high-performance, visually stunn... | TypeScript |
-| [File-Intregrity-Checker](https://github.com/JEFFERSON-007/File-Intregrity-Checker) | 🛡️ A production-ready, real-time File Integrity Monitoring system built in Python 3.12+. | Python |
 
-<sub>Automatically selected from recent public activity. Last refreshed: 2026-09-07.</sub>
+<sub>Automatically selected from recent public activity. Last refreshed: 2026-09-14.</sub>
 <!-- FEATURED_WORK:END -->
 
 <p align="center"><a href="https://github.com/JEFFERSON-007?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-172554?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
