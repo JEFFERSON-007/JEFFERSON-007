@@ -15,6 +15,17 @@
 
 <br />
 
+## Quick navigation
+
+- [About me](#about-me)
+- [Featured work](#featured-work)
+- [Project map](#project-map)
+- [Technical toolkit](#technical-toolkit)
+- [GitHub in numbers](#github-in-numbers)
+- [Latest security news](#latest-security-news)
+- [2026 goals](#2026-goals)
+- [Let's connect](#lets-connect)
+
 ## About me
 
 I am a cybersecurity-focused software developer who likes building things that are both technically interesting and easy to use. My work sits at the intersection of security research, web development, Android, Python automation, and applied machine learning.
@@ -126,6 +137,13 @@ Use this map to find the part of my work that interests you most.
 
 </div>
 
+## Latest security news
+
+<!-- SECURITY_NEWS:START -->
+- [The Hacker News](https://thehackernews.com/) feed updates are automatically inserted here by GitHub Actions.
+- If this section is empty or stale, run the **Latest Security News** workflow manually from the Actions tab.
+<!-- SECURITY_NEWS:END -->
+
 ## 2026 goals
 
 | Goal | What it means |
@@ -134,6 +152,12 @@ Use this map to find the part of my work that interests you most.
 | Stronger documentation | Include screenshots, setup guides, and technical write-ups |
 | Open-source contribution | Collaborate on security and developer-tool projects |
 | Consistent learning | Keep building with React Native, Kotlin, and cloud technologies |
+
+## Profile automation
+
+- `Refresh profile sections` updates **Current direction** and **Featured work** every Monday.
+- `Latest Security News` refreshes this README with current security headlines every day.
+- `Generate Snake` and `GitHub-Profile-3D-Contrib` keep visual contribution assets up to date.
 
 ## Let's connect
 
