@@ -40,7 +40,7 @@ I am a cybersecurity-focused software developer who likes building things that a
 - Full-stack web development: 10 repositories using JavaScript, TypeScript, and browser or frontend technologies.
 - Python, data, and machine learning: 15 repositories covering automation, APIs, analytics, or classification.
 - Systems and developer tooling: 2 repositories exploring terminals, automation, Docker, or technical utilities.
-<sub>Automatically derived from public repository activity. Last refreshed: 2026-11-02.</sub>
+<sub>Automatically derived from public repository activity. Last refreshed: 2026-11-09.</sub>
 <!-- CURRENT_DIRECTION:END -->
 
 </td>
@@ -52,14 +52,14 @@ I am a cybersecurity-focused software developer who likes building things that a
 <!-- FEATURED_WORK:START -->
 | Project | What it shows | Primary stack |
 | --- | --- | --- |
-| [PRISM-IDS](https://github.com/JEFFERSON-007/PRISM-IDS) | An Enterprise-Grade, Real-Time Intrusion Detection System & Security Operations Center (SOC) Platform powered by Hybrid Si... | Python |
-| [Full-Stack-Project](https://github.com/JEFFERSON-007/Full-Stack-Project) | A modern, production-grade personal knowledge management platform with an art-directed editorial design language, interact... | TypeScript |
-| [IIPX-Intelligent-Internet-Phishing-Extension](https://github.com/JEFFERSON-007/IIPX-Intelligent-Internet-Phishing-Extension) | The extension's work was to find the phishing messages in a website | JavaScript |
-| [Arkshield](https://github.com/JEFFERSON-007/Arkshield) | ArkShield is a professional-grade, autonomous cyber defense ecosystem designed for real-time endpoint monitoring, telemetr... | Python |
-| [AI-Resume-Builder](https://github.com/JEFFERSON-007/AI-Resume-Builder) | An enterprise-grade, privacy-first, ATS-optimized AI resume builder engineered with Next.js 14, React, Tailwind CSS, and Z... | TypeScript |
-| [E-commerce-website](https://github.com/JEFFERSON-007/E-commerce-website) | A CSS project from my active public portfolio. | CSS |
+| [CODSOFT](https://github.com/JEFFERSON-007/CODSOFT) | INTERNSHIP | Python |
+| [APPT](https://github.com/JEFFERSON-007/APPT) | APPT (Advanced Penetration Testing Toolkit) is a modular, high-throughput network security auditing and credential stress-... | Python |
+| [FILE-INTEGRITY-CHECKER](https://github.com/JEFFERSON-007/FILE-INTEGRITY-CHECKER) | An enterprise-ready, multi-threaded File Integrity Monitoring (FIM) and change-detection engine written in Python. It capt... | Python |
+| [ADVANCED-ENCRYPTION-TOOL](https://github.com/JEFFERSON-007/ADVANCED-ENCRYPTION-TOOL) | An enterprise-standard command-line cryptographic utility implementing AES-256-CBC symmetric encryption, PBKDF2-HMAC-SHA25... | Python |
+| [WEB-APPLICATION-VULNERABILITY-SCANNER](https://github.com/JEFFERSON-007/WEB-APPLICATION-VULNERABILITY-SCANNER) | VULN.SCAN 2.0 is an asynchronous, full-stack automated web application vulnerability assessment platform. Engineered with... | JavaScript |
+| [E-commerce-website](https://github.com/JEFFERSON-007/E-commerce-website) | An elegant, minimalist, and fully responsive e-commerce web application for MAISON, an artisanal lifestyle brand featuring... | CSS |
 
-<sub>Automatically selected from recent public activity. Last refreshed: 2026-11-02.</sub>
+<sub>Automatically selected from recent public activity. Last refreshed: 2026-11-09.</sub>
 <!-- FEATURED_WORK:END -->
 
 <p align="center"><a href="https://github.com/JEFFERSON-007?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-172554?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
